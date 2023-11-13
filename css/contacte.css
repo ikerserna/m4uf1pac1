@@ -1,0 +1,62 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 50px;
+}
+
+.icono{
+    width: 25px;
+    float: left;
+    margin-right: 15px;
+}
+
+p{
+    font-size: 20px;
+}
+
+#contacto{
+    background-color: rgb(242, 242, 242);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+iframe{
+    float: right;
+}
+
+.final_parte_mapa{
+    clear: both;
+}
+
+form {
+    background-color: rgb(242, 242, 242);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+form label{
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+  
+textarea {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 3px;
+}
+  
+button {
+    background-color: rgb(102, 102, 102);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+  
+button:hover {
+    background-color: rgb(51, 51, 51);
+}

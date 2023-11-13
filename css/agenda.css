@@ -1,0 +1,29 @@
+caption{
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tabla-agenda{
+    width: 100%;
+    margin: 0;
+  }
+  
+.tabla-agenda th{
+    background-color: rgb(102, 102, 102);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+  
+.tabla-agenda td{
+    background-color: rgb(242, 242, 242);
+    padding: 10px;
+    text-align: center;
+}
+  
+.tabla-agenda tr:hover td{
+    background-color: rgb(153, 153, 153);
+    color: rgb(255, 255, 255);
+}
+  

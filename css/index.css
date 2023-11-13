@@ -1,0 +1,53 @@
+h1{
+    font-size: 50px;
+    margin: 0;
+}
+
+.noticia {
+    display: block;
+    align-items: center;
+    padding: 20px 30px;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 5px;
+    background-color: rgb(242, 242, 242);
+  }
+
+#img_drake {
+    float: left;
+    width: 20%;
+}
+
+#img_drake img {
+    width: 100%;
+}
+
+#noticias {
+    float: right;
+    width: 75%;
+    margin-left: 5%;
+}
+
+
+  #noticias img {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    border-radius: 5px;
+
+  }
+  
+  #noticias h2 {
+    font-size: 24px;
+    color: rgb(51, 51, 51);
+  }
+  
+  #noticias p {
+    font-size: 16px;
+    color: rgb(102, 102, 102);
+    text-align: justify;
+  }
+  
+  .final-noticias {
+    clear: both;
+  }
+  

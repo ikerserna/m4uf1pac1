@@ -1,0 +1,75 @@
+body{
+    background-color: gray;
+    background-image: url('../img/background-pattern.jpg');
+    margin: 0;
+}
+
+#foto_cabezera{
+    width: 100%;
+}
+
+header{
+    background-color: rgb(42, 42, 42);
+}
+
+h1, h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav {
+    background-color: rgb(42, 42, 42);
+}
+
+ul#menu {
+    padding: 10px 20px;
+    display: table;
+    margin: 0 auto;
+}
+
+ul#menu li{
+    display: inline-block;
+    width: 100px;
+}
+
+ul#menu a{
+    text-decoration: none;
+    font-size: 20px;
+    word-spacing: 30px;
+    width: 100%;
+    display:block;
+    color: white;
+    text-align: center;
+}
+
+ul#menu a:hover{
+    color: red;
+}
+
+#contenido{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color:  rgb(211, 211, 211);
+    padding: 50px;
+}
+
+footer{
+    background-color: rgb(42, 42, 42);
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+footer a:hover{
+    color: red;
+}
+
+.icono_rrss{
+    width: 35px;
+    margin-top: 25px;
+}
